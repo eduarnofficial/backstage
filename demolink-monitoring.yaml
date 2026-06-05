@@ -12,6 +12,9 @@ metadata:
     - url: http://localhost:9090
       title: Prometheus
       icon: show_chart
+    - url: https://google.com
+      title: Google.com
+      icon: show_chart  
 
   annotations:
     prometheus.io/target: demo-service
